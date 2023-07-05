@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Noodle-Dev an indie game developer and programmer
-- 👀 I’m interested in game developing and making android apps
+- 👀 I’m interested in game developing and software making
 - 🌱 I’m currently working on CATastrophe a 2.5D shooter game about cats, inspired on titles like Doom and Quake
 
 - 📫 How to reach me 
