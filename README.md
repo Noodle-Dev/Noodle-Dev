@@ -1,6 +1,6 @@
-# 🌟 ¡Hola, soy @Noodle-AM! 👋
+# 🌟 ¡Hola, soy @Noodle-Dev! 👋
 
-> _"Si se puede imaginar se puede programar"_
+> _"Si se puede imaginar se puede programar."_
 
 ## 🚀 Sobre mí
 
@@ -18,7 +18,11 @@
 
 ### Motores y frameworks
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+
+### Desarrollo web
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Otras herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -29,7 +33,7 @@
 ## 🏆 Proyectos destacados
 
 ### [🎮 Mis juegos en Itch.io](https://noodle-dev.itch.io/)
-Explora mis creaciones en esta plataforma. Cada juego tiene una historia única y un diseño pensado para entretener.  
+Explora mis creaciones en esta plataforma, llevo creando videojuegos desde que tengo 14 años!  
 
 ---
 
