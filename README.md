@@ -57,4 +57,4 @@ Explora mis creaciones en esta plataforma, llevo creando videojuegos desde que t
 
 ---
 
-👀 **¡Gracias por visitar mi perfil!** Si tienes alguna idea para un videojuego o colaboración, no dudes en contactarme.
+👀 **¡Gracias por visitar mi perfil!** Si tienes alguna duda o colaboración, no dudes en contactarme.
