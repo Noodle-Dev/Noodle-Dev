@@ -1,6 +1,6 @@
 # 🌟 ¡Hola, soy @Noodle-Dev! 👋
 
-> _"Si se puede imaginar se puede programar."_
+> _"Reach for the stars so if you fall you land on a cloud. -Ye"_
 
 ## 🚀 Sobre mí
 
