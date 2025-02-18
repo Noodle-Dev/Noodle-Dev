@@ -1,6 +1,6 @@
 # 🌟 ¡Hola, soy @Noodle-Dev! 👋
 
-> _"Reach for the stars so if you fall you land on a cloud. -Ye"_
+> _"Reach for the stars so if you fall you land on a cloud. -KanYe West"_
 
 ## 🚀 Sobre mí
 
