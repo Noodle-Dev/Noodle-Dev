@@ -33,7 +33,7 @@
 ## 🏆 Proyectos destacados
 
 ### [🎮 Mis juegos en Itch.io](https://noodle-dev.itch.io/)
-Explora mis creaciones en esta plataforma, llevo creando videojuegos desde que tengo 14 años!  
+Explora mis creaciones en esta plataforma, llevo creando videojuegos desde hace mas de 5 años!  
 
 ---
 
