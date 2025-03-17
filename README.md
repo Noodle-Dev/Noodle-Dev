@@ -1,60 +1,60 @@
-# 🌟 ¡Hola, soy @Noodle-Dev! 👋
+# 🌟 Hi, I'm @Noodle-Dev! 👋
 
 > _"Reach for the stars so if you fall you land on a cloud. -KanYe West"_
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-👨‍💻 Soy un desarrollador indie de videojuegos y programador apasionado por crear experiencias únicas.  
-📍 Interesado en el desarrollo de videojuegos y el desarollo web.  
+👨‍💻 I'm an indie game developer and programmer passionate about creating unique experiences.  
+📍 Interested in game development and web development.  
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies and Tools
 
-### Lenguajes
+### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Motores y frameworks
+### Engines and Frameworks
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
-### Desarrollo web
+### Web Development
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### Otras herramientas
+### Other Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🏆 Proyectos destacados
+## 🏆 Featured Projects
 
-### [🎮 Mis juegos en Itch.io](https://noodle-dev.itch.io/)
-Explora mis creaciones en esta plataforma, llevo creando videojuegos desde hace mas de 5 años!  
-
----
-
-## 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Noodle-Dev&show_icons=true&theme=radical)
-
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Noodle-Dev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### [🎮 My Games on Itch.io](https://noodle-dev.itch.io/)
+Explore my creations on this platform. I've been creating video games for over 5 years!  
 
 ---
 
-## 🌐 Conéctate conmigo
+## 📈 GitHub Stats
 
-📫 **Cómo contactarme:**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noodle-Dev&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noodle-Dev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🌐 Connect with Me
+
+📫 **How to reach me:**  
 - ✉️ [Email](mailto:NoodleHairDev@protonmail.com)  
 - 🎥 [YouTube](https://www.youtube.com/channel/UCmpha1AJt9zzY2fuAgSWwUQ)  
-- 🐦 [Twitter](https://twitter.com/noodle_stud1/media)  
+- 🐦 [X](https://twitter.com/noodle_stud1/media)  
 
-🎮 **¡Mis juegos!**  
-- [Explora mis proyectos en Itch.io](https://noodle-dev.itch.io/)  
+🎮 **My Games!**  
+- [Explore my projects on Itch.io](https://noodle-dev.itch.io/)  
 
 ---
 
-👀 **¡Gracias por visitar mi perfil!** Si tienes alguna duda o colaboración, no dudes en contactarme.
+👀 **Thanks for visiting my profile!** If you have any questions or collaboration ideas, feel free to reach out.
