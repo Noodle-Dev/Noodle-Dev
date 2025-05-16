@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-👨‍💻 I'm an indie game developer and programmer passionate about creating unique experiences.  
+👨‍💻 I'm an indie game developer and programmer passionate about creating bizarre experiences.  
 📍 Interested in game development and web development.  
 
 ---
